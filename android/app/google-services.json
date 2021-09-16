@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93645667164",
+    "project_id": "karyaapp-5be56",
+    "storage_bucket": "karyaapp-5be56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93645667164:android:6bac3927af103845065f99",
+        "android_client_info": {
+          "package_name": "karya.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93645667164-fap0m82agjiprvr8af5c09ha45sc05mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEh70Zuk8KIVhl3qOIN4PjUK9qJhSP798"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93645667164-fap0m82agjiprvr8af5c09ha45sc05mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
